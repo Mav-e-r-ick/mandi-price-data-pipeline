@@ -1,0 +1,136 @@
+{
+  "success": true,
+  "message": "Data fetched successfully.",
+  "title": "Market-wise Wholesale Arrivals Weekly Analysis for Tomato in Pune, Maharashtra \u2013 Week 1 of January, 2021",
+  "data": [
+    {
+      "key": "region_info",
+      "columns": [
+        {
+          "key": "market",
+          "title": "Market"
+        }
+      ]
+    },
+    {
+      "key": "arrivals",
+      "columns": [
+        {
+          "key": "arrivals_1_8_jan_2021",
+          "title": "Arrivals 1-8 Jan 2021 (Metric Tonnes)"
+        },
+        {
+          "key": "arrivals_24_31_dec_2020",
+          "title": "Arrivals 24-31 Dec 2020 (Metric Tonnes)"
+        },
+        {
+          "key": "arrivals_1_8_dec_2020",
+          "title": "Arrivals 1-8 Dec 2020 (Metric Tonnes)"
+        },
+        {
+          "key": "arrivals_1_8_jan_2020",
+          "title": "Arrivals 1-8 Jan 2020 (Metric Tonnes)"
+        }
+      ]
+    },
+    {
+      "key": "percentage_change",
+      "columns": [
+        {
+          "key": "change_over_previous_week",
+          "title": "Change (Over Previous Week)"
+        },
+        {
+          "key": "change_over_previous_month",
+          "title": "Change (Over Previous Month)"
+        },
+        {
+          "key": "change_over_previous_year",
+          "title": "Change (Over Previous Year)"
+        }
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "market": "Junnar(Narayangaon) APMC",
+      "arrivals_1_8_jan_2021": 328.0,
+      "arrivals_24_31_dec_2020": 604.0,
+      "arrivals_1_8_dec_2020": 347.0,
+      "arrivals_1_8_jan_2020": 76.0,
+      "change_over_previous_week": "-45.7",
+      "change_over_previous_month": "-5.5",
+      "change_over_previous_year": "331.6"
+    },
+    {
+      "market": "Khed(Chakan) APMC",
+      "arrivals_1_8_jan_2021": 16.0,
+      "arrivals_24_31_dec_2020": 6.0,
+      "arrivals_1_8_dec_2020": 8.0,
+      "arrivals_1_8_jan_2020": 213.0,
+      "change_over_previous_week": "166.7",
+      "change_over_previous_month": "100.0",
+      "change_over_previous_year": "-92.5"
+    },
+    {
+      "market": "Pune APMC",
+      "arrivals_1_8_jan_2021": 980.0,
+      "arrivals_24_31_dec_2020": 937.0,
+      "arrivals_1_8_dec_2020": 836.0,
+      "arrivals_1_8_jan_2020": 1285.0,
+      "change_over_previous_week": "4.6",
+      "change_over_previous_month": "17.2",
+      "change_over_previous_year": "-23.7"
+    },
+    {
+      "market": "Pune(Khadiki) APMC",
+      "arrivals_1_8_jan_2021": 13.0,
+      "arrivals_24_31_dec_2020": 11.0,
+      "arrivals_1_8_dec_2020": 10.0,
+      "arrivals_1_8_jan_2020": 26.0,
+      "change_over_previous_week": "18.2",
+      "change_over_previous_month": "30.0",
+      "change_over_previous_year": "-50.0"
+    },
+    {
+      "market": "Pune(Manjri) APMC",
+      "arrivals_1_8_jan_2021": 71.0,
+      "arrivals_24_31_dec_2020": 48.0,
+      "arrivals_1_8_dec_2020": 53.0,
+      "arrivals_1_8_jan_2020": null,
+      "change_over_previous_week": "47.9",
+      "change_over_previous_month": "34.0",
+      "change_over_previous_year": null
+    },
+    {
+      "market": "Pune(Moshi) APMC",
+      "arrivals_1_8_jan_2021": 143.0,
+      "arrivals_24_31_dec_2020": 183.0,
+      "arrivals_1_8_dec_2020": 138.0,
+      "arrivals_1_8_jan_2020": null,
+      "change_over_previous_week": "-21.9",
+      "change_over_previous_month": "3.6",
+      "change_over_previous_year": null
+    },
+    {
+      "market": "Pune(Pimpri) APMC",
+      "arrivals_1_8_jan_2021": 2.0,
+      "arrivals_24_31_dec_2020": null,
+      "arrivals_1_8_dec_2020": 2.0,
+      "arrivals_1_8_jan_2020": 22.0,
+      "change_over_previous_week": null,
+      "change_over_previous_month": "0.0",
+      "change_over_previous_year": "-90.9"
+    }
+  ],
+  "total": {
+    "market": "Total",
+    "arrivals_1_8_jan_2021": 1553.0,
+    "arrivals_24_31_dec_2020": 1789.0,
+    "arrivals_1_8_dec_2020": 1394.0,
+    "arrivals_1_8_jan_2020": 1622.0,
+    "change_over_previous_week": null,
+    "change_over_previous_month": null,
+    "change_over_previous_year": null
+  }
+}

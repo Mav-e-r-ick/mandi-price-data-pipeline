@@ -1,0 +1,4 @@
+key,columns
+region_info,"[{'key': 'market', 'title': 'Market'}]"
+arrivals,"[{'key': 'arrivals_1_8_jan_2021', 'title': 'Arrivals 1-8 Jan 2021 (Metric Tonnes)'}, {'key': 'arrivals_24_31_dec_2020', 'title': 'Arrivals 24-31 Dec 2020 (Metric Tonnes)'}, {'key': 'arrivals_1_8_dec_2020', 'title': 'Arrivals 1-8 Dec 2020 (Metric Tonnes)'}, {'key': 'arrivals_1_8_jan_2020', 'title': 'Arrivals 1-8 Jan 2020 (Metric Tonnes)'}]"
+percentage_change,"[{'key': 'change_over_previous_week', 'title': 'Change (Over Previous Week)'}, {'key': 'change_over_previous_month', 'title': 'Change (Over Previous Month)'}, {'key': 'change_over_previous_year', 'title': 'Change (Over Previous Year)'}]"
